@@ -1,14 +1,12 @@
 # 🎬 Netflix Content Portfolio Analysis Dashboard
 
 > An interactive Business Analytics dashboard developed as part of my **Business Analytics Internship at Auspify Technologies**. This project analyzes Netflix's content portfolio to uncover business insights through KPI reporting, executive dashboards, data visualization, and interactive analytics.
-
+>
+> 
 [![Live Demo](https://img.shields.io/badge/Live-Dashboard-success?style=for-the-badge)](https://salar13684-lgtm.github.io/business-analytics-internship-projects-auspify/)
-
----
 
 ![Project Banner](./screenshots/dashboard-overview.jpg)
 
----
 
 ## 📌 Project Overview
 
